@@ -20,3 +20,6 @@ Variables: The dataset contain id,purpose,type,price,size,sizeunit,userid,listin
 areamarlasize,city_name,linksubtype,link
 
 File Type: Excel
+
+Also Available on kaggle 
+https://www.kaggle.com/datasets/huzzefakhan/pakistans-1st-online-real-estate-data-set
